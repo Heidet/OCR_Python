@@ -1,0 +1,50 @@
+TEST Période du 01/02/2022 au 28/02/2022 " Paiementle" 28/02/2022 par Virement SEPA
+10 Rue Du Con
+75002 Poubelle Matricule 00120 N° contrat CTR-ANI00035
+Ancienneté 2022 an(s) & 2 mois Entrée 2022-03-03
+N° Sécu 101R540956840 Horaires 151,67
+Siret 302212456247898 APE/NAF 9523cc
+URSSAF ou MSA 302212456247898
+Conv. collective Acheteru TOTO TOTO
+Emploi Acheteur Toto
+Qualification Employé 90909 Toto
+Indice Echelon IIIB Coefficient 5
+Gains et cotisations salariales Cotisations patronales
+8020 SALAIRE DE BASE 2 500,00
+14700 Indemnité C.P. pris 2,00 115,367 230,73
+14701 Retenue C.P. -2,00 115,367 -230,73
+24/12 , 26/12 JOURNEE 21048
+19000 SALAIRE BRUT 2 500,00
+25500 URSSAF Maladie 2 500,00 0,750 -18,75 12,800 -320,00
+25520 URSSAF Vieillesse Total. 2 500,00 0,300 -7,50 1,800 -45,00
+25540 URSSAF Vieillesse Tr À 2 500,00 6,850 -171,25 8,500 -212,50
+25560 URSSAF Alloc. Familiales 2 500,00 5,250 -131,25
+25580 URSSAF Accident Travail 2 500,00 1,300 -32,50
+25635 URSSAF F.N.AL. 2 500,00 0,500 -12,50
+25660 URSSAF Transport 2 500,00 2,000 -50,00
+25910 Contrib. autonomie pers. âgées 2 500,00 0,300 -7,50
+25950 Contrib. organisat. syndicales 2 500,00 0,016 -0,40
+31100 ASSEDIC Chômage 2 500,00 2,400 -60,00 4,000 -100,00
+31110 ASSEDIC A.GsS. 2 500,00 0,300 -7,50
+35000 ARRCO non cadre Tr À 2 500,00 3,100 -77,50 4,650 -116,25
+35020 AGFF non cadre Tr À 2 500,00 0,800 -20,00 1,200 -30,00
+44030 PREVOYANCE Décès n cadre Tr A 2 500,00 0,750 -18,75 0,750 -18,75
+49024 Mutuelle Isolé 3 170,00 0,336 -10,65 0,504 -15,98
+53905 URSSAF Forfait Social 34,73 8,000 -2,78
+54050 CSG déductible 2 456,25 5,100 -125,27
+54051 CSG déductible non abattu 34,73 5,100 1,77
+55520 NET IMPOSABLE 1 988,56
+58020 CRDS+CSG IMPOSABLE 2 456,25 2,900 -71,23
+58021 CRDS+CSG IMPOSABLE non abattu 34,73 2,900 -1,01
+60000 SALAIRE NET 1 916,32
+61050 Ticket restaurant 21,00 3,500 -73,50 4,500 -94,50
+75100 Net impos complément mutuelle 15,98
+77400 NET À PAYER 1 842,82
+Salaire brut | Chg salariales | Chg patronales | Netimposable | Heures] À 1 || Netä payer
+[Mois | 250000 83368 127666] 200454 Be | |
+[année _[ 500000! 176736 255332] 400908] 30334 1 me me
+[Congés n Congés M1] À | |
+19,68 22 |
+AC EE ES PS SE PS ES
+[_Soide 650 1 1 |
+Ce bulletin est établi en EURO. Pour vous aider à faire valoir vos droits, conservez ce bulletin de paie sans limitation de durée.
